@@ -1,0 +1,30 @@
+<table>
+  <thead>
+    <tr>
+      <th>Album Title</th>
+      <th>Musical Artist</th>
+      <th>Year</th>
+      <th>Songs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Thriller</td>
+      <td>Michael Jackson</td>
+      <td>1982</td>
+      <td>Wanna Be Startin’ Somethin’, Thriller, Beat It, Billie Jean, Human Nature</td>
+    </tr>
+    <tr>
+      <td>The Dark Side of the Moon</td>
+      <td>Pink Floyd</td>
+      <td>1973</td>
+      <td>Speak to Me, Breathe, On the Run, Time, The Great Gig in the Sky</td>
+    </tr>
+    <tr>
+      <td>Nevermind</td>
+      <td>Nirvana</td>
+      <td>1991</td>
+      <td>Smells Like Teen Spirit, In Bloom, Come As You Are, Lithium, Polly</td>
+    </tr>
+  </tbody>
+</table>
